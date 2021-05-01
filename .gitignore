@@ -1,0 +1,11 @@
+
+# Folders
+/__pychache__
+/.vscode
+/result
+/venv
+
+# Files
+.json
+
+
